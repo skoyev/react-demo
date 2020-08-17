@@ -1,0 +1,26 @@
+.fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    z-index: 5; 
+    background-color: #eaeaea;
+    opacity: 0.8;
+    margin: 0;
+    box-shadow: 0 5px 20px -10px #000;
+    height: 90px;  
+    transition: all .3s ease; 
+}
+
+.fixed .header {
+    padding: 0px;
+}
+
+.fixed .header-right {
+    padding-top: 30px;
+}
+
+.header h3 {
+    color: #ffffff;
+}
