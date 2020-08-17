@@ -24,3 +24,7 @@ Body container contains 2 drop down options for adding and removing price column
 In order to run application:
 
 Run: npm install, npm start
+
+The project screenshot:
+
+![alt text](https://github.com/skoyev/react-demo/blob/master/img.png)
